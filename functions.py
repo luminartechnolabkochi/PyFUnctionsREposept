@@ -5,3 +5,10 @@ def addition(*args):
 def maximum(*args):
     return max(args)
 
+def mult(n1,n2):
+    return n1*n2
+
+def maximum(*args):
+    return max(args)
+
+
