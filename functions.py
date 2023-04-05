@@ -2,4 +2,6 @@
 def addition(*args):
     return sum(args)
 
+def maximum(*args):
+    return max(args)
 
