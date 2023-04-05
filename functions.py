@@ -5,23 +5,13 @@ def addition(*args):
 def maximum(*args):
     return max(args)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def division(*args):
     return division(args)
+def minimum(*args):
+
+  return min(args)
+
+
+def minnum(*args):
+
+    return min(args)
