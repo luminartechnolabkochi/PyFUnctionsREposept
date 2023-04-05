@@ -13,3 +13,6 @@ def minimum(*args):
 def minnum(*args):
 
     return min(args)
+
+def division(n1,n2):
+    return n1/n2
